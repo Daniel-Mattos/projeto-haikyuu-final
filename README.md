@@ -34,19 +34,19 @@ Simplesmente abra o arquivo index.html em seu navegador de preferência. Não é
 📁 Estrutura de Pastas
 A estrutura de pastas do projeto é organizada da seguinte forma:
 
-.
-├── index.html              # Estrutura principal da página
-├── src/                    # Pasta para o código-fonte da aplicação
-│   ├── css/                # Estilos CSS
-│   │   └── style.css
-│   ├── js/                 # Lógica JavaScript
-│   │   └── script.js
-│   └── images/             # Imagens dos personagens
-│       ├── oikawa.jpg
-│       ├── kageyama.jpg
-│       ├── hinata.jpg
-│       └── ...
-└── README.md               # Este arquivo!
+.<br>
+├── index.html              # Estrutura principal da página<br>
+├── src/                    # Pasta para o código-fonte da aplicação<br>
+│   ├── css/                # Estilos CSS<br>
+│   │   └── style.css<br>
+│   ├── js/                 # Lógica JavaScript<br>
+│   │   └── script.js<br>
+│   └── images/             # Imagens dos personagens<br>
+│       ├── oikawa.jpg<br>
+│       ├── kageyama.jpg<br>
+│       ├── hinata.jpg<br>
+│       └── ...<br>
+└── README.md               # Este arquivo!<br>
 💡 Como Contribuir
 Faça um fork do projeto.
 
